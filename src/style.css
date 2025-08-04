@@ -1,0 +1,125 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.bannercontent h1{
+    
+    font-size: 52px;
+    font-weight:bolder;
+}
+.bannercontent h1 span{
+    color: #2699F8;
+    
+    
+}
+.bannercontent p{
+    font-size: 22px;
+    
+}
+.bannercontent ul{
+    list-style: none;
+}
+.bannercontent ul li i{
+    color: #2699F8;
+}
+.bannercontentbtn{
+    display: flex;
+    gap: 16px;
+    
+}
+.bannerform h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.banner{
+    padding-top: 20px;
+}
+
+.bannerform{
+    border-radius: 10px;
+}
+.countersection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699F8;
+
+}
+.highlights-section{
+    background-color: #F7FAFF;
+}
+.highlights-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+
+}
+.highlights-section h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.highlightsitems{
+    font-size: 15px;
+}
+.Get-Certified{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.certificate{
+    border-radius: 10px;
+}
+.certificate-left{
+   font-size: 20px;
+    font-weight: 600;
+}
+.certificate p{
+    font-size: 15px;
+}
+.tabbing-title h2{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+}
+.tabbing-title p{
+    display: flex;
+    justify-content: center;
+}
+.tablecontent ul{
+    list-style: none;
+
+}
+.tabMySystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #F2F4F7;
+    color: black;
+    border-bottom: 2px solid #2699F8;
+}
+
+.Download-curriculum{
+    display: flex;
+    justify-content: center;
+    margin: 23px;
+}
+
+.Book-button{
+    display: flex;
+    justify-content: center;
+}
+.Matt{
+    display: flex;
+    
+}
+.banner-blue{
+    background-color:#2699F8;
+    border-radius: 12px;
+}
+.footer{
+    background-color: #0A2540;
+}
+.line{
+    color:white;
+    
+}
+
+.circle{
+    color: blue;
+}
